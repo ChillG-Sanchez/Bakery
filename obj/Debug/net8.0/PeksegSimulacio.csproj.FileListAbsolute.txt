@@ -1,0 +1,15 @@
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/PeksegSimulacio/obj/Debug/net8.0/PeksegSimulacio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/PeksegSimulacio/obj/Debug/net8.0/PeksegSimulacio.AssemblyInfoInputs.cache
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/PeksegSimulacio/obj/Debug/net8.0/PeksegSimulacio.AssemblyInfo.cs
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/PeksegSimulacio/obj/Debug/net8.0/PeksegSimulacio.csproj.CoreCompileInputs.cache
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/PeksegSimulacio/obj/Debug/net8.0/PeksegSimulacio.sourcelink.json
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/PeksegSimulacio/bin/Debug/net8.0/PeksegSimulacio
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/PeksegSimulacio/bin/Debug/net8.0/PeksegSimulacio.deps.json
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/PeksegSimulacio/bin/Debug/net8.0/PeksegSimulacio.runtimeconfig.json
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/PeksegSimulacio/bin/Debug/net8.0/PeksegSimulacio.dll
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/PeksegSimulacio/bin/Debug/net8.0/PeksegSimulacio.pdb
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/PeksegSimulacio/obj/Debug/net8.0/PeksegSimulacio.dll
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/PeksegSimulacio/obj/Debug/net8.0/refint/PeksegSimulacio.dll
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/PeksegSimulacio/obj/Debug/net8.0/PeksegSimulacio.pdb
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/PeksegSimulacio/obj/Debug/net8.0/PeksegSimulacio.genruntimeconfig.cache
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/PeksegSimulacio/obj/Debug/net8.0/ref/PeksegSimulacio.dll
